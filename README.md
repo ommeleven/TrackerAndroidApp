@@ -1,5 +1,6 @@
 Trackr Android App
 ==================
+Finished PreWork: 08/28/2023
 
 **Note**: Trackr uses version 7 of Gradle, which currently requires Android Studio Beta or Canary.
 
